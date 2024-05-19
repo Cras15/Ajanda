@@ -2,7 +2,6 @@
 
 ### Kullanıcının rehber ve randevu oluşturabileceği bir ajanda uygulaması
 
-![Ajanda Uygulaması](https://your-image-url.com/banner.png)
 
 ## 🛠️ Teknolojiler
 
@@ -44,19 +43,22 @@ Bu masaüstü uygulaması ElectronVite ve React kullanılarak geliştirilmiştir
 ## 📖 Kullanım
 
 1. Uygulamayı başlattığınızda, ana ekran rehber ve randevu oluşturma seçenekleriyle karşınıza çıkacaktır.
-2. Rehberde kişi ekleyebilir, düzenleyebilir veya silebilirsiniz.
+2. Rehberde kişi ekleyebilir veya silebilirsiniz.
 3. Randevu kısmında ise yeni randevu oluşturabilir, mevcut randevularınızı görüntüleyebilir ve düzenleyebilirsiniz.
+4. Randevu oluşturma kısmında sağ üstteki rehber iconuna basıp rehberden kişi seçip kolayca ekleme yapabilirsiniz.
+5. Ayarlar kısmına girerek renkleri ve diğer özellikleri kendinize göre ayarlayabilirsiniz.
+6. Randevularınızı excel formatında çıktı alabilir ya da excel formatından uygulamaya veri aktarabilirsiniz.
 
 ## 🎨 Ekran Görüntüleri
 
-### Ana Ekran
-![Ana Ekran](https://your-image-url.com/screenshot1.png)
+### Randevular
+![Randevular](https://i.hizliresim.com/5o63zwm.jpg)
 
 ### Rehber
-![Rehber](https://your-image-url.com/screenshot2.png)
+![Rehber](https://i.hizliresim.com/sucg1g2.jpg)
 
-### Randevular
-![Randevular](https://your-image-url.com/screenshot3.png)
+### Ayarlar
+![Randevular](https://i.hizliresim.com/gxh360l.jpg)
 
 ## 📧 İletişim
 
