@@ -7,6 +7,12 @@
 
 Bu masaüstü uygulaması ElectronVite ve React kullanılarak geliştirilmiştir.
 
+## 📥 İndirme
+
+Uygulamayı indirme sayfası için [buraya tıklayabilirsiniz](https://github.com/Cras15/Ajanda/releases/tag/1.0.0).
+
+Uygulamayı indirmek için [buradan indirebilirsiniz](https://github.com/Cras15/Ajanda/releases/download/1.0.0/Ajanda.Setup.1.0.0.exe).
+
 ## 🚀 Kurulum
 
 ### Önerilen IDE Kurulumu
