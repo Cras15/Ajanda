@@ -60,4 +60,4 @@ Bu masaüstü uygulaması ElectronVite ve React kullanılarak geliştirilmiştir
 
 ## 📧 İletişim
 
-Herhangi bir soru veya geri bildiriminiz için lütfen [email@example.com](mailto:mertyenerr60@gmail.com) adresine e-posta gönderin.
+Herhangi bir soru veya geri bildiriminiz için lütfen [mertyenerr60@gmail.com](mailto:mertyenerr60@gmail.com) adresine e-posta gönderin.
